@@ -14,4 +14,6 @@
 4.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/range_sum_of_bst_938.java">range_sum_of_bst_938</a> : 
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/range_sum_of_bst_938.java<br/>
-
+5.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/remove_outermost_parentheses_1021.java">remove_outermost_parentheses_1021: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/remove_outermost_parentheses_1021.java<br/>
