@@ -28,10 +28,6 @@
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/unique_morse_code_words_804.java<br/>
     
-8.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/unique_morse_code_words_804.java">unique_morse_code_words_804: </a>
-    <br/>
-    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/unique_morse_code_words_804.java<br/>
-    
 9.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/flipping_an_image_832.java">flipping_an_image_832: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/flipping_an_image_832.java<br/>
