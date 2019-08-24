@@ -28,6 +28,19 @@
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/unique_morse_code_words_804.java<br/>
     
-9.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/flipping_an_image_832.java">flipping_an_image_832: </a>
+8.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/flipping_an_image_832.java">flipping_an_image_832: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/flipping_an_image_832.java<br/>
+    
+9.  617未做,看不懂答案，自己也不会写
+
+10. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/hamming_distance_461.java">hamming_distance_461: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/hamming_distance_461.java<br/>
+    
+11. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/robot_return_to_origin_657.java">robot_return_to_origin_657: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/robot_return_to_origin_657.java<br/>
+12. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/invert_binary_tree_226.java">invert_binary_tree_226: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/invert_binary_tree_226.java<br/>
