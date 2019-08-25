@@ -41,6 +41,19 @@
 11. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/robot_return_to_origin_657.java">robot_return_to_origin_657: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/robot_return_to_origin_657.java<br/>
+    
 12. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/invert_binary_tree_226.java">invert_binary_tree_226: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/invert_binary_tree_226.java<br/>
+    
+13. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/maximum_depth_of_binary_tree_104.java">maximum_depth_of_binary_tree_104: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/maximum_depth_of_binary_tree_104.java<br/>
+    
+14. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/height_checker_1051.java">height_checker_1051: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/height_checker_1051.java<br/>
+    
+15. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/squares_of_a_sorted_array_977.java">squares_of_a_sorted_array_977: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/squares_of_a_sorted_array_977.java<br/>
