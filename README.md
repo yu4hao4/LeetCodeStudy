@@ -57,3 +57,12 @@
 15. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/squares_of_a_sorted_array_977.java">squares_of_a_sorted_array_977: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/squares_of_a_sorted_array_977.java<br/>
+    
+16. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/di_string_match_942.java">di_string_match_942: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/di_string_match_942.java<br/>
+    
+17. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/search_in_a_binary_search_tree_700.java">search_in_a_binary_search_tree_700: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/search_in_a_binary_search_tree_700.java<br/>
+18. 590没写
