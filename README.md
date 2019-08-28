@@ -65,4 +65,20 @@
 17. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/search_in_a_binary_search_tree_700.java">search_in_a_binary_search_tree_700: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/search_in_a_binary_search_tree_700.java<br/>
-18. 590没写
+    
+18. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/n_ary_tree_postorder_traversal_590.java">n_ary_tree_postorder_traversal_590: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/n_ary_tree_postorder_traversal_590.java<br/>
+19. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/n_ary_tree_preorder_traversal_589.java">n_ary_tree_preorder_traversal_589: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/n_ary_tree_preorder_traversal_589.java<br/>
+20. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/nim_game_292.java">nim_game_292: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/nim_game_292.java<br/>
+   
+21. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/peak_index_in_a_mountain_array_852.java">peak_index_in_a_mountain_array_852: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/peak_index_in_a_mountain_array_852.java<br/>
+22. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/divisor_game_1025.java">divisor_game_1025: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/divisor_game_1025.java<br/>

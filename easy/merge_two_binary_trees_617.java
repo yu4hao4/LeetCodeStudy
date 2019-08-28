@@ -23,15 +23,9 @@ public class merge_two_binary_trees_617 {
             TreeNode(int x) { val = x; }
         }
         public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
-            if( t1 != null && t2 != null){
-                t1 = new TreeNode(t1.val + t2.val); 
-            }else {
-                t1 = t1==null ? t2 == null? null:t2 : new TreeNode(t1 == null? 0:t1.val);
-            }
-            
-            t1.left = mergeTrees(t1.left, t2.left);
-            t2.right = mergeTrees(t1.right, t2.right);
-            return t1;
+            t1.val = t1.val + t2.val;
+            TreeNode node = t1;
+            return node;
         }
     }
     

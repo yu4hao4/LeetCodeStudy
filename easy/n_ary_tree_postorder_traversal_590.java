@@ -1,7 +1,9 @@
 package easy;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Stack;
 
 /**
  * @author 喻浩
@@ -26,25 +28,26 @@ public class n_ary_tree_postorder_traversal_590 {
     }
     
     class Solution {
-        ArrayList<Integer> list = new ArrayList<Integer>();
 
         public List<Integer> postorder(Node root) {
-            travelTree(root);
+            Stack<Node> stack = new Stack<Node>();
+            LinkedList<Integer> list = new LinkedList<Integer>();
+            if(root == null){ return list; }
+            stack.push(root);
+            Node top;
+            int len;
+            while(!stack.isEmpty()){
+                top = stack.pop();
+                len = top.children.size();
+                list.add(0,top.val);
+                for(int i = 0;i < len;i++){
+                    stack.push(top.children.get(i));
+                }
+            }
+            
             return list;
         }
         
-        public void travelTree(Node root){
-            Node node = null;
-            if(!root.children.isEmpty()){
-                for(int i = 0;i < root.children.size();i++){
-                    node = root.children.remove(0);
-                    travelTree(node);
-                }
-            }
-            if(node != null){
-                list.add(node.val);
-            }
-        }
     }
     
     public static void main(String[] args) {
