@@ -79,6 +79,11 @@
 21. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/peak_index_in_a_mountain_array_852.java">peak_index_in_a_mountain_array_852: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/peak_index_in_a_mountain_array_852.java<br/>
+    
 22. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/divisor_game_1025.java">divisor_game_1025: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/divisor_game_1025.java<br/>
+    
+23. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_complement_476.java">number_complement_476: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_complement_476.java<br/>
