@@ -87,3 +87,21 @@
 23. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_complement_476.java">number_complement_476: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_complement_476.java<br/>
+    
+24. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sort_array_by_parity_905.java">sort_array_by_parity_905: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sort_array_by_parity_905.java<br/>
+    
+25. 933未写
+
+26. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/reverse_string_344.java">reverse_string_344: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/reverse_string_344.java<br/>
+    
+27. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/reverse_words_in_a_string_iii_557.java">reverse_words_in_a_string_iii_557: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/reverse_words_in_a_string_iii_557.java<br/>
+    
+28. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/array_partition_i_561.java">array_partition_i_561: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/array_partition_i_561.java<br/>
