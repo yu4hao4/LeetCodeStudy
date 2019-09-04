@@ -14,12 +14,29 @@ public class sort_array_by_parity_905 {
      */
     class Solution {
         public int[] sortArrayByParity(int[] A) {
-
+            int i=0,j=A.length-1,temp;
+            while(i < j){
+                if(A[i] % 2 == 0 || A[i] == 0){
+                    i++;
+                }else if(A[j] % 2 != 0){
+                    j--;
+                }else if(A[i] % 2 != 0 && A[j] % 2 == 0){
+                    temp = A[i];
+                    A[i] = A[j];
+                    A[j] = temp;
+                    i++;
+                    j--;
+                }
+            }
+            return A;
         }
     }
     
     public static void main(String[] args) {
+        int[] A = {3,1,2,4};
         sort_array_by_parity_905 sort_array_by_parity_905 = new sort_array_by_parity_905();
-        System.out.println(sort_array_by_parity_905.new Solution());;
+        for(int i : sort_array_by_parity_905.new Solution().sortArrayByParity(A)){
+            System.out.println(i);
+        }
     }
 }
