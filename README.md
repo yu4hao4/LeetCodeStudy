@@ -105,3 +105,17 @@
 28. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/array_partition_i_561.java">array_partition_i_561: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/array_partition_i_561.java<br/>
+    
+29. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/keyboard_row_500.java">keyboard_row_500: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/keyboard_row_500.java<br/>
+    
+30. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/maximum_depth_of_n_ary_tree_559.java">maximum_depth_of_n_ary_tree_559: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/maximum_depth_of_n_ary_tree_559.java<br/>
+    
+31. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sqrtx_69.java">sqrtx_69: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sqrtx_69.java<br/>
+    
+32. 687未写
