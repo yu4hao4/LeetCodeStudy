@@ -119,3 +119,7 @@
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sqrtx_69.java<br/>
     
 32. 687未写
+
+33. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java">: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java<br/>
