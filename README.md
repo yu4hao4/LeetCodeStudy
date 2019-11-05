@@ -120,6 +120,6 @@
     
 32. 687未写
 
-33. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java">: </a>
+33. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java">guess_numbers_LCP_1: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java<br/>
