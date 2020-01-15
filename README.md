@@ -123,3 +123,6 @@
 33. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java">guess_numbers_LCP_1: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java<br/>
+34. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/convert_binary_number_in_a_linked_list_to_integer_1290.java">convert_binary_number_in_a_linked_list_to_integer_1290: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/convert_binary_number_in_a_linked_list_to_integer_1290.java<br/>
