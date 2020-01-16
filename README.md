@@ -126,3 +126,6 @@
 34. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/convert_binary_number_in_a_linked_list_to_integer_1290.java">convert_binary_number_in_a_linked_list_to_integer_1290: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/convert_binary_number_in_a_linked_list_to_integer_1290.java<br/>
+35. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/remove_duplicates_from_sorted_list_83.java">remove_duplicates_from_sorted_list_83: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/remove_duplicates_from_sorted_list_83.java<br/>
