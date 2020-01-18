@@ -129,3 +129,9 @@
 35. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/remove_duplicates_from_sorted_list_83.java">remove_duplicates_from_sorted_list_83: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/remove_duplicates_from_sorted_list_83.java<br/>
+36. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/cells_with_odd_values_in_a_matrix_1252.java">cells_with_odd_values_in_a_matrix_1252: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/cells_with_odd_values_in_a_matrix_1252.java<br/>
+37. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/toeplitz_matrix_766.java">toeplitz_matrix_766: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/toeplitz_matrix_766.java<br/>
