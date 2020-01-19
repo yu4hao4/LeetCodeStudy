@@ -135,3 +135,6 @@
 37. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/toeplitz_matrix_766.java">toeplitz_matrix_766: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/toeplitz_matrix_766.java<br/>
+38. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_of_1_bits_191.java">number_of_1_bits_191: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_of_1_bits_191.java<br/>
