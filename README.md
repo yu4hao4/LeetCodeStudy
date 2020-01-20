@@ -138,3 +138,6 @@
 38. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_of_1_bits_191.java">number_of_1_bits_191: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/number_of_1_bits_191.java<br/>
+39. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/deep_dark_fraction_LCP2.java">deep_dark_fraction_LCP2: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/deep_dark_fraction_LCP2.java<br/>
