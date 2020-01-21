@@ -141,3 +141,6 @@
 39. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/deep_dark_fraction_LCP2.java">deep_dark_fraction_LCP2: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/deep_dark_fraction_LCP2.java<br/>
+40. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_numbers_with_even_number_of_digits_1295.java">find_numbers_with_even_number_of_digits_1295: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_numbers_with_even_number_of_digits_1295.java<br/>
