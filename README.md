@@ -144,3 +144,9 @@
 40. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_numbers_with_even_number_of_digits_1295.java">find_numbers_with_even_number_of_digits_1295: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_numbers_with_even_number_of_digits_1295.java<br/>
+41. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/add_digits_258.java">add_digits_258: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/add_digits_258.java<br/>
+42. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/distribute_candies_575.java">distribute_candies_575: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/distribute_candies_575.java<br/>
