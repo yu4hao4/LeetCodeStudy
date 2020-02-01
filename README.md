@@ -150,3 +150,12 @@
 42. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/distribute_candies_575.java">distribute_candies_575: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/distribute_candies_575.java<br/>
+43. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/binary_tree_paths_257.java">binary_tree_paths_257: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/binary_tree_paths_257.java<br/>
+44. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_n_unique_integers_sum_up_to_zero_1304.java">find_n_unique_integers_sum_up_to_zero_1304: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_n_unique_integers_sum_up_to_zero_1304.java<br/>
+45. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_the_difference_389.java">find_the_difference_389: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_the_difference_389.java<br/>
