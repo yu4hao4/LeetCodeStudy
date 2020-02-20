@@ -159,3 +159,6 @@
 45. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_the_difference_389.java">find_the_difference_389: </a>
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/find_the_difference_389.java<br/>
+46. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/day_of_the_week_1185.java">day_of_the_week_1185: </a>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/day_of_the_week_1185.java<br/>
