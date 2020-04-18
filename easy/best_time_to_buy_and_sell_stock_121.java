@@ -1,5 +1,3 @@
-package easy;
-
 /**
  * @author 喻浩
  * @create 2020-03-09-11:35
