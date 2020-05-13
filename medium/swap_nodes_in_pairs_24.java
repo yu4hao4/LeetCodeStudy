@@ -1,5 +1,7 @@
 package medium;
 
+import java.util.ArrayList;
+
 /**
  * @author 喻浩
  * @create 2020-05-12-15:58
@@ -21,15 +23,23 @@ public class swap_nodes_in_pairs_24 {
             if (head.next == null){
                 return head;
             }
-            ListNode ans = new ListNode(-1);
 
-            while (head != null){
-                ListNode temp = head.next;
-                ListNode node = ans;
-                ans.next = head.next;
-                ans.next.next = head;
-                head = temp.next;
+            ListNode ans = new ListNode(-1);
+            ans.next = head;
+            ListNode temp = ans;
+            ListNode node1;
+            ListNode node2;
+            while (temp.next != null && temp.next.next != null){
+                node1 = temp.next;
+                node2 = temp.next.next;
+
+                temp.next = node2;
+                node1.next = node2.next;
+                node2.next = node1;
+
+                temp = node1;
             }
+
             return ans.next;
         }
     }
@@ -45,6 +55,8 @@ public class swap_nodes_in_pairs_24 {
         node.next = new ListNode(2);
         node.next.next = new ListNode(3);
         node.next.next.next = new ListNode(4);
+        node.next.next.next.next = new ListNode(5);
+        node.next.next.next.next.next = new ListNode(6);
         swap_nodes_in_pairs_24 swap_nodes_in_pairs_24 = new swap_nodes_in_pairs_24();
 
         ListNode listNode = swap_nodes_in_pairs_24.new Solution().swapPairs(node);
