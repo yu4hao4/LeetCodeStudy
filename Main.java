@@ -25,6 +25,7 @@ public class Main {
             }
         }
         System.out.println(Arrays.toString(ans));
+
     }
 
 //    public static void main(String[] args) {
