@@ -11,15 +11,45 @@ public class palindrome_number_9 {
      * 判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。
      */
     class Solution {
+//        public boolean isPalindrome(int x) {
+//            if (x < 0){
+//                return false;
+//            }
+//
+//            StringBuilder str1 = new StringBuilder(""+x+x);
+//            StringBuilder str2 = new StringBuilder(""+x+x).reverse();
+//            System.out.println(str1 +" "+ str2);
+//            return String.valueOf(str1).equals(String.valueOf(str2));
+//        }
+//        public boolean isPalindrome(int x) {
+//            if (x < 0){
+//                return false;
+//            }
+//
+//            StringBuilder str1 = new StringBuilder(x+"");
+//            StringBuilder str2 = new StringBuilder(x+"").reverse();
+//            return String.valueOf(str1).equals(String.valueOf(str2));
+//        }
+
         public boolean isPalindrome(int x) {
             if (x < 0){
                 return false;
             }
+            char[] chars = String.valueOf(x).toCharArray();
 
-            StringBuilder str1 = new StringBuilder(""+x+x);
-            StringBuilder str2 = new StringBuilder(""+x+x).reverse();
-            System.out.println(str1 +" "+ str2);
-            return String.valueOf(str1).equals(String.valueOf(str2));
+            int begin = 0;
+            int end = chars.length-1;
+
+            while (begin <= end){
+                if (chars[begin] == chars[end]){
+                    begin++;
+                    end--;
+                    continue;
+                }
+                return false;
+            }
+
+            return true;
         }
     }
 
