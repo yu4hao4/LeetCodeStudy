@@ -57,5 +57,11 @@ public class Test {
 //    }
 
 
+    public static void main(String[] args) {
+        int[] ans = new int[21];
+        for (int i = 0; i < ans.length; i++) {
+
+        }
+    }
 
 }
