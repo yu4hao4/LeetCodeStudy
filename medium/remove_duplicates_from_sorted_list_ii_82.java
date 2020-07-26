@@ -25,6 +25,7 @@ public class remove_duplicates_from_sorted_list_ii_82 {
                         cur = cur.next;
                         if (pre.next.val != cur.val){
                             pre.next = cur;
+                            break;
                         }
                     }
                 }else {

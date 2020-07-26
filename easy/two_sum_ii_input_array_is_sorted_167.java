@@ -20,34 +20,51 @@ public class two_sum_ii_input_array_is_sorted_167 {
      * 你可以假设每个输入只对应唯一的答案，而且你不可以重复使用相同的元素。
      */
     class Solution {
+//        public int[] twoSum(int[] numbers, int target) {
+//            int[] ans = new int[2];
+//            int index = 0;
+//            int offset = 1;
+//            while (index < numbers.length){
+//                if (numbers[index] + numbers[index+offset] == target){
+//                    ans[0] = index + 1;
+//                    ans[1] = index + 1 + offset;
+//                    break;
+//                }
+//
+//                if (numbers[index] + numbers[index+offset] < target){
+//                    offset++;
+//                    if (offset + index >= numbers.length){
+//                        index++;
+//                        offset = 1;
+//                    }
+//
+//                    continue;
+//                }
+//
+//                if (numbers[index] + numbers[index+offset] > target){
+//                    offset = 1;
+//                    index++;
+//                }
+//            }
+//
+//            return ans;
+//        }
+
         public int[] twoSum(int[] numbers, int target) {
-            int[] ans = new int[2];
-            int index = 0;
-            int offset = 1;
-            while (index < numbers.length){
-                if (numbers[index] + numbers[index+offset] == target){
-                    ans[0] = index + 1;
-                    ans[1] = index + 1 + offset;
-                    break;
-                }
+            if (numbers == null || numbers.length < 2){
+                return new int[]{0,0};
+            }
 
-                if (numbers[index] + numbers[index+offset] < target){
-                    offset++;
-                    if (offset + index >= numbers.length){
-                        index++;
-                        offset = 1;
+            int len = numbers.length;
+            for (int i = 1; i < len; i++) {
+                for (int j = 0; j < i; j++) {
+                    if (numbers[i] + numbers[j] == target){
+                        return new int[]{j+1,i+1};
                     }
-
-                    continue;
-                }
-
-                if (numbers[index] + numbers[index+offset] > target){
-                    offset = 1;
-                    index++;
                 }
             }
 
-            return ans;
+            return new int[]{0,0};
         }
     }
 

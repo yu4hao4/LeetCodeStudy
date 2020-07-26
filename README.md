@@ -4,7 +4,8 @@
 ## 题目对应URL（快捷进入链接）
 
 1.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/defanging_an_ip_address_1108.java">defanging_an_ip_address_1108</a> : 
-    <br/>https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/defanging_an_ip_address_1108.java<br/>
+    <br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/defanging_an_ip_address_1108.java
 
 2.  <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/jewels_and_stones_771.java">jewels_and_stones_771</a> : 
     <br/>https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/jewels_and_stones_771.java<br/>
@@ -32,7 +33,7 @@
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/flipping_an_image_832.java<br/>
     
-9.  617未做,看不懂答案，自己也不会写
+9.  
 
 10. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/hamming_distance_461.java">hamming_distance_461: </a>
     <br/>
@@ -92,7 +93,7 @@
     <br/>
     https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sort_array_by_parity_905.java<br/>
     
-25. 933未写
+25. 
 
 26. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/reverse_string_344.java">reverse_string_344: </a>
     <br/>
@@ -116,9 +117,9 @@
     
 31. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sqrtx_69.java">sqrtx_69: </a>
     <br/>
-    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sqrtx_69.java<br/>
+    https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/sqrtx_69.java
     
-32. 687未写
+32. 
 
 33. <a href="https://github.com/yu4hao4/LeetCodeStudy/blob/master/easy/guess_numbers_LCP_1.java">guess_numbers_LCP_1: </a>
     <br/>
