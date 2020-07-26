@@ -4,6 +4,15 @@ import java.util.List;
 /**
  * @author 喻浩
  * @create 2020-07-17-22:28
+package medium;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * @author yuhao5
+ * @date 2020-07-16
  */
 public class partition_labels_763 {
     /**
@@ -14,27 +23,31 @@ public class partition_labels_763 {
      */
     class Solution {
         public List<Integer> partitionLabels(String S) {
-            int[] temp = new int[27];
-            List<Integer> ans = new ArrayList<>();
-
+            if (S == null || S.length() == 0){
+                return new ArrayList<>();
+            }
             int len = S.length();
-            for (int i = len-1; i > 0; i--) {
-                int index = S.charAt(i)-'a' + 1;
-                if (temp[index] == 0){
-                    temp[index] = index;
+            int[] letters = new int[26];
+
+            for(int i = len - 1; i >= 0; i--){
+                if(letters[S.charAt(i)-'a'] == 0){
+                    letters[S.charAt(i)-'a'] = i;
                 }
             }
 
-            for (int i = 0; i < len; i++) {
-                int index = S.charAt(i)-'a' + 1;
-                int right = temp[index];
-                for (int j = i+1; j < right; j++) {
-                    int index1 =  S.charAt(i)-'a' + 1;
-                    int right1 = temp[index1];
-                    right = Math.max(right1, right);
+            int begin = 0;
+            int end = 0;
+            List<Integer> ans = new ArrayList<>();
+            while (begin < len){
+                end = letters[S.charAt(begin)-'a'];
+                int i = begin;
+                for (; i < end; i++) {
+                    int index = S.charAt(i)-'a';
+                    end = Math.max(letters[index], end);
                 }
-                ans.add(right-index);
-                i = right;
+
+                ans.add(end-begin+1);
+                begin = i+1;
             }
 
             return ans;
